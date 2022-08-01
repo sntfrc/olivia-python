@@ -2,7 +2,7 @@
 
 This is a simple Python implementation of Olivia digital modulation, used by amateur radio operators for text communication over HF in very low SNR conditions. It was written as a part of my thesis at Università di Bologna.
 
-Behavior was determined by documents available on the web and the source code of the C reference implementation, and tested against a popular (fldigi).
+Behavior was determined by documents available on the web and the source code of the C reference implementation, and tested against a popular software (fldigi).
 
 More details are available on request. If you are interested I can send you the full text of my thesis, but please note that it's written in Italian.
 
