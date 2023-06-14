@@ -4,7 +4,7 @@ This is a simple Python implementation of Olivia digital modulation, used by ama
 
 Behavior was determined by documents available on the web and the source code of the C reference implementation, and tested against a popular software (fldigi).
 
-More details are available on request. If you are interested I can send you the full text of my thesis, but please note that it's written in Italian.
+More details are available on request. You are welcome to download the full text of my thesis, but please note that it's written in Italian.
 
 ## Modulator schematic diagram
 ![olivia-python modulator](https://github.com/sntfrc/olivia-python/blob/main/olivia-modulator.png?raw=true)
